@@ -1,0 +1,9 @@
+body {
+    background-color: greenyellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card {
+    width: 40;
+    padding: 10px;
+}
